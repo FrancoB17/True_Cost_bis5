@@ -1,0 +1,10 @@
+True Cost (US$/kg product),State,County,Method of production,County_fips,County_full,State_ac,concatenated
+2.562743472,Indiana,Lake County,Conventional,18089,Lake County,IN,"Lake County, IN"
+2.370643817,Indiana,Vanderburgh County,Conventional,18163,Vanderburgh County,IN,"Vanderburgh County, IN"
+2.52385384,Indiana,LaPorte County,Conventional,18091,LaPorte County,IN,"LaPorte County, IN"
+2.495107015,Indiana,Warrick County,Conventional,18173,Warrick County,IN,"Warrick County, IN"
+2.704949292,Indiana,Perry County,Conventional,18123,Perry County,IN,"Perry County, IN"
+2.964338817,Minnesota,Hennepin County,Conventional,27053,Hennepin County,MN,"Hennepin County, MN"
+2.623076868,Minnesota,Ramsey County,Conventional,27123,Ramsey County,MN,"Ramsey County, MN"
+2.561752182,Minnesota,Winona County,Conventional,27169,Winona County,MN,"Winona County, MN"
+2.529643452,Minnesota,Itasca County,Conventional,27061,Itasca County,MN,"Itasca County, MN"
