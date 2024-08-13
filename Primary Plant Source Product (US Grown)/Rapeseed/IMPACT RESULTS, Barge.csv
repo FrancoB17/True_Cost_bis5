@@ -1,0 +1,6 @@
+True Cost (US$/kg product),State,County,Method of production,County_fips,County_full,State_ac,concatenated
+0.963832061,Idaho,Nez Perce,Conventional,16069,Nez Perce County,ID,"Nez Perce County, ID"
+2.386778452,Oregon,Linn,Conventional,41043,Linn County,OR,"Linn County, OR"
+2.388289328,Oregon,Umatilla,Conventional,41059,Umatilla County,OR,"Umatilla County, OR"
+2.031457871,Washington,Snohomish,Conventional,53061,Snohomish County,WA,"Snohomish County, WA"
+2.034127084,Washington,Whitman,Conventional,53075,Whitman County,WA,"Whitman County, WA"
